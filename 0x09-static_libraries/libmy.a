@@ -1,20 +1,20 @@
-int _putchar(char c);
-int _islower(int c);
-int _isalpha(int c);
-int _abs(int n);
-int _isupper(int c);
-int _isdigit(int c);
-int _strlen(char *s);
-void _puts(char *s);
-char *_strcpy(char *dest, char *src);
-int _atoi(char *s);
-char *_strcat(char *dest, char *src);
-char *_strncat(char *dest, char *src, int n);
-char *_strncpy(char *dest, char *src, int n);
-int _strcmp(char *s1, char *s2);
-char *_memset(char *s, char b, unsigned int n);
-char *_memcpy(char *dest, char *src, unsigned int n);
-char *_strchr(char *s, char c);
-unsigned int _strspn(char *s, char *accept);
-char *_strpbrk(char *s, char *accept);
-char *_strstr(char *haystack, char *needle);
+!<arch>
+_islower/       0           0     0     644     0         `
+_isalpha/       0           0     0     644     0         `
+_abs/           0           0     0     644     0         `
+_isupper/       0           0     0     644     0         `
+_isdigit/       0           0     0     644     0         `
+_strlen/        0           0     0     644     0         `
+_puts/          0           0     0     644     0         `
+_strcpy/        0           0     0     644     0         `
+_atoi/          0           0     0     644     0         `
+_strcat/        0           0     0     644     0         `
+_strncat/       0           0     0     644     0         `
+_strncpy/       0           0     0     644     0         `
+_strcmp/        0           0     0     644     0         `
+_memset/        0           0     0     644     0         `
+_memcpy/        0           0     0     644     0         `
+strchr/         0           0     0     644     0         `
+_strspn/        0           0     0     644     0         `
+_strpbrk/       0           0     0     644     0         `
+_strstr/        0           0     0     644     0         `
